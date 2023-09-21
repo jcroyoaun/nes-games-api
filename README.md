@@ -66,6 +66,7 @@ This is a simple REST API built with Node and Express that returns metadata for 
 - concurrently: https://www.npmjs.com/package/concurrently
 
 ### NES Games
+.
 
 - NES Games Database: https://www.gamesdatabase.org/all_system_games-nintendo_nes
 - NES Games Wikipedia: https://en.wikipedia.org/wiki/List_of_Nintendo_Entertainment_System_games
